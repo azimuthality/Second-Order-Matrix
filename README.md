@@ -1,1 +1,1 @@
-# Second-Order-Matrix
+# Second Order Matrix Calculation Program
